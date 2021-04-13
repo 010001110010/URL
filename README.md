@@ -1,7 +1,7 @@
 # URL Koruması
 Discord sunucunuz için basit bir şekilde hazırlanmıştır. <br>
-Gerekli yerleri düzgün bir şekilde doldurursanız hiç bir hata ile karşılaşmazsınız.
-Bu proje tamamen bana aittir.
+Gerekli yerleri düzgün bir şekilde doldurursanız hiç bir hata ile karşılaşmazsınız. <br>
+Proje tarafımca yapılmıştır. Lütfen iznim olmadan paylaşmayın!
 
 # Kurulum
 - <code>config.json</code> dosyasındaki boşlukları doldurun.
