@@ -7,7 +7,7 @@ Proje tarafımca yapılmıştır. Lütfen iznim olmadan paylaşmayın!
 
 # Kurulum
 - <code>config.json</code> dosyasındaki boşlukları doldurun.
-- ```javascript
+```javascript
 {
     "token": "BOT_TOKEN"
 }
