@@ -1,4 +1,4 @@
-# URL Koruması
+# Sistem
 Discord sunucunuz için basit bir şekilde hazırlanmıştır. <br>
 Gerekli yerleri düzgün bir şekilde doldurursanız hiç bir hata ile karşılaşmazsınız. <br>
 Proje https://github.com/010001110010 tarafından hazırlanmıştır.
